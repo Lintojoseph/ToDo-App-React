@@ -1,0 +1,38 @@
+
+*{
+  
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  width: 100%;
+  padding-left: 71px;
+  background: rgb(28, 33, 33);
+  padding-right: 75px;
+}
+
+.main{
+
+  width: 100%;
+}
+
+.header{
+  text-align: center;
+  
+}
+.inputFeild{
+  width:85%;
+  border-radius: 10px;
+
+}
+
+
+.main .list{
+  max-height: 250px;
+}
+.list{
+  position: relative;
+  list-style: none;
+  margin-bottom: 8px;
+  overflow: hidden;
+  background: rgb(72, 227, 233);
+}
